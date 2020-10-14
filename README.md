@@ -21,7 +21,7 @@ $ cd catkin_ws/src
 $ catkin_init_workspace
 ```
 
-Next, put the ```my_robot``` and ```ball_chaser``` directories into the src folder. After this, go to the catkin_ws directory and build the project
+Next, put the ```my_robot``` and ```ball_chaser``` directories into the src folder. After this, go to the catkin_ws directory and build the project.
 ```
 $ catkin_make
 ```
