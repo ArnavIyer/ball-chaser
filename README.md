@@ -1,6 +1,6 @@
 # Ball Chasing Robot
 
-![Screenshot](./screenshot.jpg)
+![screenshot](https://user-images.githubusercontent.com/40965890/96025436-c0b5a380-0e1a-11eb-8e82-25951481f3f7.png)
 
 ## Description
 
